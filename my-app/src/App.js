@@ -9,6 +9,7 @@ function App() {
         <p>
           My first attempt at creating a React App.
         </p>
+        <p>You can also learn it by clicking the link below.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
